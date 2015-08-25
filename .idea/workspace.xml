@@ -43,19 +43,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/public/app/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="3" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+                <state line="10" column="3" selection-start="324" selection-end="324" vertical-scroll-proportion="0.41436464" vertical-offset="0" max-vertical-offset="362">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="337">
+                <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
                   <folding />
                 </state>
               </provider>
@@ -68,7 +68,7 @@
           <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.jade">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="18" selection-start="230" selection-end="230" vertical-scroll-proportion="0.21008404" vertical-offset="0" max-vertical-offset="357">
+                <state line="8" column="14" selection-start="298" selection-end="298" vertical-scroll-proportion="0.33613446" vertical-offset="0" max-vertical-offset="357">
                   <folding />
                 </state>
               </provider>
@@ -89,8 +89,8 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/index.jade" />
-        <option value="$PROJECT_DIR$/public/app/app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/public/app/app.js" />
       </list>
     </option>
   </component>
@@ -290,23 +290,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="337">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="230" selection-end="230" vertical-scroll-proportion="0.21008404" vertical-offset="0" max-vertical-offset="357">
+        <state line="8" column="14" selection-start="298" selection-end="298" vertical-scroll-proportion="0.33613446" vertical-offset="0" max-vertical-offset="357">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="3" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="337">
+        <state line="10" column="3" selection-start="324" selection-end="324" vertical-scroll-proportion="0.41436464" vertical-offset="0" max-vertical-offset="362">
           <folding />
         </state>
       </provider>
