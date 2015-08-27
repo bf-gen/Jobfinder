@@ -1,0 +1,8 @@
+node_modules
+mongodb
+<<<<<<< HEAD
+mongodb-osx-x86_64-3.0.6
+data
+=======
+mongodb-osx-x86_64-3.0.6
+>>>>>>> 6b80035137f87dc13fce56106bc5f63bf90b356f
