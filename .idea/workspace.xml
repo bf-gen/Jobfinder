@@ -53,7 +53,7 @@
       <file leaf-file-name="jobs-data.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jobs-data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="38" selection-start="466" selection-end="466" vertical-scroll-proportion="0.48387095" vertical-offset="0" max-vertical-offset="540">
+            <state line="26" column="7" selection-start="618" selection-end="618" vertical-scroll-proportion="0.740038" vertical-offset="0" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -240,7 +240,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1440" y="-430" width="1440" height="873" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2893726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -454,7 +454,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jobs-data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="38" selection-start="466" selection-end="466" vertical-scroll-proportion="0.48387095" vertical-offset="0" max-vertical-offset="540">
+        <state line="26" column="7" selection-start="618" selection-end="618" vertical-scroll-proportion="0.740038" vertical-offset="0" max-vertical-offset="540">
           <folding />
         </state>
       </provider>
