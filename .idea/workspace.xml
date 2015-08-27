@@ -53,7 +53,7 @@
       <file leaf-file-name="jobs-data.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jobs-data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="5" selection-start="599" selection-end="599" vertical-scroll-proportion="0.65464896" vertical-offset="0" max-vertical-offset="540">
+            <state line="11" column="53" selection-start="274" selection-end="274" vertical-scroll-proportion="0.31309298" vertical-offset="0" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -454,7 +454,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jobs-data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="5" selection-start="599" selection-end="599" vertical-scroll-proportion="0.65464896" vertical-offset="0" max-vertical-offset="540">
+        <state line="11" column="53" selection-start="274" selection-end="274" vertical-scroll-proportion="0.31309298" vertical-offset="0" max-vertical-offset="540">
           <folding />
         </state>
       </provider>

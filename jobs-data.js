@@ -21,7 +21,7 @@ exports.seedJobs = function () {
             });
         }
     });
-};   
+};
 
 var jobs = [
     {title: 'Sales Person', description: 'you will fight dragons'},
