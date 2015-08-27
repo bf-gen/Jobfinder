@@ -53,7 +53,7 @@
       <file leaf-file-name="jobs-data.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jobs-data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="7" selection-start="618" selection-end="618" vertical-scroll-proportion="0.740038" vertical-offset="0" max-vertical-offset="540">
+            <state line="23" column="5" selection-start="599" selection-end="599" vertical-scroll-proportion="0.65464896" vertical-offset="0" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -75,10 +75,10 @@
         <option value="$PROJECT_DIR$/public/app/app.js" />
         <option value="$PROJECT_DIR$/index.jade" />
         <option value="$PROJECT_DIR$/models/Job.js" />
-        <option value="$PROJECT_DIR$/jobs-data.js" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/test/jobs-data-spec.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/jobs-data.js" />
       </list>
     </option>
   </component>
@@ -454,7 +454,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jobs-data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="618" selection-end="618" vertical-scroll-proportion="0.740038" vertical-offset="0" max-vertical-offset="540">
+        <state line="23" column="5" selection-start="599" selection-end="599" vertical-scroll-proportion="0.65464896" vertical-offset="0" max-vertical-offset="540">
           <folding />
         </state>
       </provider>
